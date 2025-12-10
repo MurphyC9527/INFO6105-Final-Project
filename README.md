@@ -15,18 +15,12 @@ This project requires the following Python packages:
 
 Start by opening the notebook Part1and2.ipynb.
 This notebook handles the entire pipeline, including:
-
-Data loading
-
-Data preprocessing and feature encoding
-
-Exploratory Data Analysis (EDA)
-
-Model training (Logistic Regression, Random Forest, XGBoost)
-
-Model evaluation (accuracy, F1, confusion matrix, ROC–AUC)
-
-Saving the best model
+-Data loading
+-Data preprocessing and feature encoding
+-Exploratory Data Analysis (EDA)
+-Model training (Logistic Regression, Random Forest, XGBoost)
+-Model evaluation (accuracy, F1, confusion matrix, ROC–AUC)
+-Saving the best model
 
 To run it, simply execute the cells in order from top to bottom.
 No additional configuration is required.
