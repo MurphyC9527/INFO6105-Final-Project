@@ -10,7 +10,7 @@ This project requires the following Python packages:
 - xgboost
 - joblib
 
-##How to Run the Project
+## How to Run the Project
 1. Run Part1and2.ipynb (Data Processing + Model Training)
 
 Start by opening the notebook Part1and2.ipynb.
